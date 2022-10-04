@@ -1,0 +1,14 @@
+name: exemploCursoDashboards1
+title: exemploCursoDashboards1
+username:
+account: acursor
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7199177
+bundleId: 6365768
+url: https://acursor.shinyapps.io/exemploCursoDashboards1/
+when: 1664844929.61882
+lastSyncTime: 1664844929.61884
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 01-ola-mundo.R|02-output.R|03-output-input.R
