@@ -36,12 +36,17 @@ Fora do horário de aula ou monitoria:
 
 ## Scripts utilizados em aula
 
-| script                                                                                                                         |
-|:-------------------------------------------------------------------------------------------------------------------------------|
-| [01-ola-mundo.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//01-ola-mundo.R)                     |
-| [02-output.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//02-output.R)                           |
-| [03-output-input.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//03-output-input.R)               |
-| [04-dois-inputs-outputs.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//04-dois-inputs-outputs.R) |
+| script                                                                                                                           |
+|:---------------------------------------------------------------------------------------------------------------------------------|
+| [01-ola-mundo.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//01-ola-mundo.R)                       |
+| [02-output.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//02-output.R)                             |
+| [03-output-input.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//03-output-input.R)                 |
+| [04-dois-inputs-outputs.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//04-dois-inputs-outputs.R)   |
+| [05-amostra-sem-reactive.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//05-amostra-sem-reactive.R) |
+| [06-amostra-com-reactive.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//06-amostra-com-reactive.R) |
+| [07-disparo-reatividade.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//07-disparo-reatividade.R)   |
+| [08-eventReactive.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//08-eventReactive.R)               |
+| [09-debug.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//09-debug.R)                               |
 
 ## Redes sociais da Curso-R
 
