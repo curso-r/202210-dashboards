@@ -48,6 +48,9 @@ Fora do horário de aula ou monitoria:
 | [07-disparo-reatividade.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//07-disparo-reatividade.R)   |
 | [08-eventReactive.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//08-eventReactive.R)               |
 | [09-debug.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//09-debug.R)                               |
+| [10-dados.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//10-dados.R)                               |
+| [12-gridsystem.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//12-gridsystem.R)                     |
+| [13-sidebarLayout.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//13-sidebarLayout.R)               |
 
 ## Redes sociais da Curso-R
 
