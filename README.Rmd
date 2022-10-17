@@ -74,7 +74,7 @@ dplyr::mutate(
 ) %>% 
   dplyr::filter(!stringr::str_detect(slide, "_files/")) %>%
   dplyr::select(slides, pdf) %>% 
-  dplyr::slice(1:4) |> 
+  dplyr::slice(1:5) |> 
   knitr::kable()
 ```
 
