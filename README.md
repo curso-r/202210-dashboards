@@ -56,6 +56,10 @@ Fora do horário de aula ou monitoria:
 | [15-shinydashboard-layout.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//15-shinydashboard-layout.R)       |
 | [16-shinydashboard-menu.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//16-shinydashboard-menu.R)           |
 | [17-shinydashboard-elementos.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//17-shinydashboard-elementos.R) |
+| [18-bs4Dash.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//18-bs4Dash.R)                                   |
+| [19-observers.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//19-observers.R)                               |
+| [20-observeEvent.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//20-observeEvent.R)                         |
+| [21-reactvalues.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//21-reactvalues.R)                           |
 
 ## Redes sociais da Curso-R
 
