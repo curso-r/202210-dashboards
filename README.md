@@ -61,6 +61,9 @@ Fora do horário de aula ou monitoria:
 | [19-observers.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//19-observers.R)                               |
 | [20-observeEvent.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//20-observeEvent.R)                         |
 | [21-reactvalues.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//21-reactvalues.R)                           |
+| [22-htmlwidgets.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//22-htmlwidgets.R)                           |
+| [23-auth0.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//23-auth0.R)                                       |
+| [exemplos_extras.R](https://raw.githubusercontent.com/curso-r/202210-dashboards/main/pratica//exemplos_extras.R)                         |
 
 ## Redes sociais da Curso-R
 
